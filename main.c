@@ -3,8 +3,8 @@
  * Copyright (C) 2019 TUSUR, FB, Baranov Dmitriy
  *
  * File              : main.c
- * Compiler          : IAR for ARM 
- * Version           : 1.0001
+ * Compiler          : IAR for ARM
+ * Version           : 7.50.2.10505
  * Created File      : 14.03.2019
  * Last modified     : 14.04.2019
  *
